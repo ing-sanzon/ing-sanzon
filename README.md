@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Valdemar</h1>
 <h3 align="center">A passionate backend & frontend developer from Mexico</h3>
+<h3 align="center"><a href="https://drive.google.com/file/d/1H86JS_BMu3rUXz0lZyKa3UYgyGsfl8v0/view?usp=sharing" target="_blank">GET MY RESUME</a></h3>
 
 <h3 align="left">Portfolio projects:</h3>
 
