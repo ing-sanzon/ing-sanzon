@@ -4,11 +4,13 @@
 
 <h3 align="left">Portfolio projects:</h3>
 
-- ⚡ [Sistema de Acreditación de Prensa de Presidencia](https://acreditaciones.comsoc.gob.mx)
+- ⚡ [Control de SIMs](https://inventario.cfeteit.gob.mx)
+
+- ⚡ [Herramienta de Gestión de Proyectos Estratégicos de TI y Comunicación](https://hgptic.presidencia.gob.mx/hgptic)
 
 - ⚡ [Acta de Nacimiento de línea](https://www.gob.mx/ActaNacimiento)  
 
-- ⚡ [Herramienta de Gestión de Proyectos Estratégicos de TI y Comunicación](https://hgptic.presidencia.gob.mx/hgptic)
+- ⚡ [Sistema de Acreditación de Prensa de Presidencia](https://acreditaciones.comsoc.gob.mx)
 
 - ⚡ [Sistema Nacional de Medicamentos](https://gestorinsumos.salud.gob.mx/sndm)
 
